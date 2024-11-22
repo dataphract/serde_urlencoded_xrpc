@@ -1,4 +1,4 @@
-//! `x-www-form-urlencoded` meets Serde
+//! XRPC-flavored `serde_urlencoded`.
 
 #![warn(unused_extern_crates)]
 #![forbid(unsafe_code)]
